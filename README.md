@@ -1,2 +1,2 @@
 # qriket
-bot qriket
+Monggo bot qriket
